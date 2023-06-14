@@ -43,3 +43,7 @@ li {
     text-align: left;
 }
 
+img {
+    padding: 30px 15px;
+    background-color: lightgreen;
+}

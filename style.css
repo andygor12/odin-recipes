@@ -25,3 +25,8 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
     color: maroon;
 }
+
+img {
+    padding: 30px 15px;
+    background-color: lightgreen;
+}
