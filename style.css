@@ -14,6 +14,8 @@ h1 {
     color: maroon;
     outline: auto;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 16px 400px;
 }
 
 ul {
@@ -24,9 +26,25 @@ ul {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     color: maroon;
+    background-color: white ;
 }
 
 img {
-    padding: 30px 15px;
+    padding: 15px 15px;
     background-color: lightgreen;
+}
+
+#item1 {
+    outline: solid black;
+    margin: 16px 400px;
+}
+
+#item2 {
+    outline: solid black;
+    margin: 16px 400px;
+}
+
+#item3 {
+    outline: solid black;
+    margin: 16px 400px;
 }
