@@ -1,0 +1,101 @@
+[33mcommit ca4b584e4af99d68cd5d97d992b52615db75935b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sun Jul 9 21:31:10 2023 -0700
+
+    Change heading of pages and redesign items list
+
+[33mcommit fd843077b1f6756bade9951bc54224a790aa00b2[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Tue Jun 13 21:42:46 2023 -0700
+
+    Change padding of img and bg-color
+
+[33mcommit 91eb123d726067e9c1e43225067fa8c3606ba40b[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Tue Jun 6 23:18:12 2023 -0700
+
+    Change the aesthetics of html page
+
+[33mcommit 71a686f2525b679d3a60d056858af09e5ae9cab9[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Tue Jun 6 23:16:11 2023 -0700
+
+    Add CSS to recipe html and centered
+
+[33mcommit fe45d53af4d78b2169fc57e41585e035c7fb6e3c[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Mon Jun 5 23:49:40 2023 -0700
+
+    Create CSS file and a reference to the CSS file
+
+[33mcommit ff96374763c745be256bb8b3c52bdaafe702074d[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 22:14:14 2023 -0700
+
+    Add alt text to dish pictures
+
+[33mcommit c9492ece2b7111019355e7fccee93c0e128ea9ad[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 22:12:22 2023 -0700
+
+    Add alt text for taco picture
+
+[33mcommit f3c85da6977ea287cf6819f280c7a036d9c8ffe6[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 22:10:22 2023 -0700
+
+    Add alt text for Gordon picture
+
+[33mcommit 0c13d008f09572064c2f295dc69c518e161afa98[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 22:08:49 2023 -0700
+
+    Add alt text to Gordon picture
+
+[33mcommit c4c4a0dc504e900ca10b2f3b08ebc3c2dae2a1b3[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 22:05:59 2023 -0700
+
+    Add Gordon Ramsay picture to main page
+
+[33mcommit a5a9bcc8a81d7dfc775b8a3a670d458c5615ecc9[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 22:05:08 2023 -0700
+
+    Add instant noodle recipe
+
+[33mcommit 8dd840d906e6cf678d7b92b65f54a5ea84ac98ab[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 21:56:36 2023 -0700
+
+    Add ingridients list to page
+
+[33mcommit aca1602f137208ede83eda6f999596ea2756d219[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 21:46:05 2023 -0700
+
+    Add links to Carne Asada Taco and Best Hamburger Ever recipe page
+
+[33mcommit 4fe698291b0c7051e78b9bb296b208a98adba0c2[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 21:43:54 2023 -0700
+
+    Add two recipe pages to recipe directory
+
+[33mcommit 70a25a0310c04a73984685a4e74c111403b46cec[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 20:43:08 2023 -0700
+
+    Add summary of skills displayed in project
+
+[33mcommit 030bfda5dde03ad451cb1db165f7ebc1dc95ced9[m
+Author: Andy Zhou <andyzg486@gmail.com>
+Date:   Sat Jun 3 20:38:33 2023 -0700
+
+    Create boilerplate for the odin-recipe project
+
+[33mcommit da5f374984789e05097401ea72ed7b4ac13a19e7[m
+Author: andygor12 <andyzg486@gmail.com>
+Date:   Sat Jun 3 20:20:56 2023 -0700
+
+    Initial commit
